@@ -1,0 +1,55 @@
+[
+   {
+     "name": "jack",
+     "grade": {
+       "data_structure": 85,
+       "algorithm": 76,
+       "database": 42,
+       "operating_system": 83
+     }
+   },
+   {
+     "name": "jain",
+     "grade": {
+       "data_structure": 56,
+       "algorithm": 65,
+       "networking": 68,
+       "database": 46,
+       "operating_system": 83
+     }
+   },
+   {
+     "name": "hana",
+     "grade": {
+       "data_structure": 86,
+       "algorithm": 64,
+       "database": 87,
+       "operating_system": 96
+     }
+   },
+   {
+     "name": "john",
+     "grade": {
+       "data_structure": 35,
+       "networking": 45,
+       "database": 78
+     }
+   },
+   {
+     "name": "steve",
+     "grade": {
+       "algorithm": 56,
+       "networking": 89,
+       "operating_system": 100
+     }
+   },
+   {
+     "name": "bill",
+     "grade": {
+       "data_structure": 87,
+       "algorithm": 45,
+       "database": 65,
+       "operating_system": 78
+     }
+   }
+ ]
